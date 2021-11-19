@@ -46,7 +46,7 @@ class Game{
     
     if(allPlayers !== undefined){
       background("#4B4B4B");
-      image(trackImg, 0, -displayHeight*4, displayWidth, displayHeight*5);
+      //image(trackImg, 0, -displayHeight*4, displayWidth, displayHeight*5);
       //var display_position = 100;
 
       var index = 0;
